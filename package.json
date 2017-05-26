@@ -1,0 +1,22 @@
+{
+  "name": "update-yourself",
+  "version": "1.0.0",
+  "description": "Personal project to learning new technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmoura/update-yourself.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmoura/update-yourself/issues"
+  },
+  "homepage": "https://github.com/gmoura/update-yourself#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
