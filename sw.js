@@ -3,6 +3,7 @@ self.addEventListener('install', function(e) {
    caches.open('airhorner').then(function(cache) {
      return cache.addAll([
        '/',
+       '/manifest.json',
        '/index.html',
        '/css/materialize.min.css',
        '/css/style.css',
