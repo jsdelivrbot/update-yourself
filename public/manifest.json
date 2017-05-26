@@ -1,0 +1,17 @@
+{
+  "name": "Update Yourself",
+  "short_name": "Update Yourself",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ff9800",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#ff1b1b"
+}

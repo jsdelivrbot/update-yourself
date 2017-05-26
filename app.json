@@ -1,0 +1,9 @@
+{
+  "name": "update-yourself",
+  "description": "Personal project to learning new technologies",
+  "repository": "https://github.com/gmoura/update-yourself",
+  "logo": "https://cdn.rawgit.com/gmoura/update-yourself/3f9f1607/img/icon.png",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
+
