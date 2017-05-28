@@ -15,9 +15,5 @@ self.addEventListener('install', function(e) {
 });
 
 self.addEventListener('fetch', function(event) { 
-  console.log('Fetch - cache first');
-  // If a match isn't found in the cache, the response
-
-  // will look like a connection error
   event.respondWith(caches.match(event.request));
 });
